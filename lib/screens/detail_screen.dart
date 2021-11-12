@@ -7,12 +7,7 @@ import 'package:flutter_health_care_app/widgets/progress_widget.dart';
 import 'package:flutter_health_care_app/widgets/rating_star_widget.dart';
 import 'package:flutter_health_care_app/theme/extention.dart';
 
-/*
-Title:DetailScreen
-Purpose:DetailScreen
-Created By:Kalpesh Khandla
-Created Date: 30 April 2021
-*/
+
 
 class DetailScreen extends StatefulWidget {
   final DoctorModel model;
